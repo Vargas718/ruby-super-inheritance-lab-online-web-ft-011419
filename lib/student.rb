@@ -2,7 +2,7 @@ class Student
   
   def intialize
     @hello = hello 
-    @raise_hand 
+    @raise_hand = raise_hand 
   end 
   
   def hello 
