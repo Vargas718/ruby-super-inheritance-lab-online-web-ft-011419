@@ -1,4 +1,0 @@
-class ChattyStudent < Student 
-  
-  
-end 
